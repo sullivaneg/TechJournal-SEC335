@@ -1,3 +1,7 @@
+# License CC0 1.0 Universal - George Gerontakis phpmyadmin-brute-force on Github
+# Link: https://github.com/GeorgeGerontakis/phpmyadmin-brute-force/blob/main/phpmyadmin.py
+# Edits done 04/26/26 by sullivaneg on Github
+
 import re, requests, warnings, argparse, sys
 warnings.filterwarnings("ignore")
 
